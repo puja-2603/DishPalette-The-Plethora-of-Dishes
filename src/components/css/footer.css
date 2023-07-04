@@ -1,0 +1,12 @@
+.footer {
+    background-color: #29292f;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  .footer__quote {
+    font-style: italic;
+    color: #ffffff;
+  }
+  
