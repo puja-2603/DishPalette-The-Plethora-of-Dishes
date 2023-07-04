@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DishPalette-The-Plethora-of-Dishes/static/css/main.ed86a11b.css",
+    "main.js": "/DishPalette-The-Plethora-of-Dishes/static/js/main.45287897.js",
+    "static/js/787.7423e620.chunk.js": "/DishPalette-The-Plethora-of-Dishes/static/js/787.7423e620.chunk.js",
+    "index.html": "/DishPalette-The-Plethora-of-Dishes/index.html",
+    "main.ed86a11b.css.map": "/DishPalette-The-Plethora-of-Dishes/static/css/main.ed86a11b.css.map",
+    "main.45287897.js.map": "/DishPalette-The-Plethora-of-Dishes/static/js/main.45287897.js.map",
+    "787.7423e620.chunk.js.map": "/DishPalette-The-Plethora-of-Dishes/static/js/787.7423e620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed86a11b.css",
+    "static/js/main.45287897.js"
+  ]
+}
